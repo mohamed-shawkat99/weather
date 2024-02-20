@@ -1,0 +1,18 @@
+@media only screen and (max-width: 992px) {
+    .col-md-4{width: 50%;}
+    body>section{
+        height: 150vh;
+    }
+    section>.layer{
+        height: 150vh;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .col-md-4{width: 100%;}
+    body>section{
+        height: 200vh;
+    }
+    section>.layer{
+        height: 200vh;
+    }
+}
